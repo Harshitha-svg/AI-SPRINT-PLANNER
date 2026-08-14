@@ -1,6 +1,9 @@
 # AI-Assisted Sprint Planning Tool
-link:https://harshitha-svg-ai-sprint-planner-app-zpjbmz.streamlit.app/
----
+
+🔗 **Live demo:** https://harshitha-svg-ai-sprint-planner-app-zpjbmz.streamlit.app/
+
+💻 **Source code:** https://github.com/Harshitha-svg/AI-SPRINT-PLANNER
+
 Paste raw, unstructured client notes (a call transcript, an email, a brief) and this
 tool uses an LLM to extract a structured Agile backlog — **Epics → User Stories →
 Acceptance Criteria** — which you can then push directly into **Jira** as real issues.
