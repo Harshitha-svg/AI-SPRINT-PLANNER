@@ -1,0 +1,18 @@
+Call notes - Loyalty App Kickoff (Client: BrightMart Retail)
+
+Client wants a customer loyalty mobile app. Key points discussed:
+
+- Customers should be able to sign up using email or phone number, with OTP verification.
+- Every purchase earns points (1 point per $10 spent). Points should show on a home screen wallet.
+- Customers can redeem points for discount coupons at checkout.
+- Client wants a referral feature: existing users get 100 bonus points when a friend signs up
+  using their referral code and makes a first purchase.
+- Admin/marketing team needs a web dashboard to see redemption trends, top customers, and
+  referral performance over time.
+- Client is worried about timeline. They want to launch an MVP in 6 weeks covering only:
+  signup/login, points earning, and points redemption.
+- Referral system and the admin dashboard can be pushed to phase 2, after MVP launch.
+- Client also mentioned wanting push notifications when a customer is close to a redeemable
+  point threshold, but said this is a "nice to have," not urgent.
+- Security requirement: all customer data must be encrypted at rest, and the app must support
+  account deletion per data privacy requirements.
